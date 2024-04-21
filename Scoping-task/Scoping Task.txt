@@ -5,4 +5,4 @@ Database ->
 Make table email_addresses with column (id, companyID, email, communication_type)
 Example: 
 insert into email_addresses(id, companyID, email, communication_type) 
-VALUES('1', '1', 'example@domain.com', 'marketing);
+VALUES('1', '1', 'example@domain.com', 'marketing');
