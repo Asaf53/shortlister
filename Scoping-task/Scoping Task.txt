@@ -1,0 +1,8 @@
+UI change -> 	
+Enable to add more input fields to write email addresses and communications type
+
+Database ->	
+Make table email_addresses with column (id, companyID, email, communication_type)
+Example: 
+insert into email_addresses(id, companyID, email, communication_type) 
+VALUES('1', '1', 'example@domain.com', 'marketing);
